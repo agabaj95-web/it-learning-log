@@ -24,13 +24,12 @@ I'm now focused on growing my technical skills and working towards an **IT Techn
 
 ## My Projects
 
-I'm using this GitHub repository to practise what I'm learning and keep track of my progress.
+Planned projects (coming soon):
 
 - Python practice programs.
 - Git and GitHub exercises.
 - Linux commands and practical exercises.
 - IT support notes and troubleshooting documentation.
-
 I'll add more projects as I gain experience and become more confident in my skills.
 
 ## Tools and Technologies
