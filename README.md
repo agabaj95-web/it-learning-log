@@ -2,53 +2,49 @@
 # John Agaba 👋
 ### My Journey into IT
 
-I'm John Agaba from Uganda. I studied Business Computing and Informatics, and I've had the opportunity to work in IT support, as well as in sales and customer service. My experience in IT support introduced me to the everyday challenges people face with computers, software, network connections, and system access.
+I'm John Agaba from Uganda, with a background in Business Computing and Informatics. My work experience has taken me through IT support, sales, and customer service. During my time in IT support, I gained experience helping users with technical issues, troubleshooting computer problems, supporting software updates, and dealing with network connectivity and system access issues.
 
-I'm now putting more time into improving my technical skills because my goal is to grow into an **IT Technician role**. I know I still have a lot to learn, so I'm taking it step by step, practising what I learn, and keeping my work here on GitHub.
+I'm now focused on growing my technical skills and working towards an **IT Technician role**. I want to build on what I already know while gaining more hands-on experience with the tools and systems used in IT.
 
 ## What I'm Learning
 
-- **Python:** Writing simple programs and learning how to automate everyday tasks.
-- **Git & GitHub:** Keeping track of my code, saving changes, and managing projects.
-- **Linux Basics:** Learning terminal commands, file management, permissions, and how Linux systems work.
-- **IT Troubleshooting:** Improving how I identify problems and work through possible solutions.
-- **Networking:** Learning more about connectivity and common network issues.
+- **Python:** Learning to write programs and automate simple tasks.
+- **Git & GitHub:** Learning to manage code, track changes, and keep my projects organised.
+- **Linux Basics:** Practising terminal commands, file management, permissions, and basic system administration.
+- **Networking:** Improving my understanding of network connections and troubleshooting.
+- **IT Troubleshooting:** Developing a more systematic approach to identifying and resolving technical problems.
 
-## What I Already Know
+## What I Can Already Do
 
-From my IT support experience, I've worked with computer hardware and software issues, helped users with system access problems, supported software updates, and assisted with network and connectivity troubleshooting. I understand that IT support is not just about fixing a computer; it's also about listening to the user, understanding the problem, and finding a solution that works.
+- Troubleshoot common computer hardware and software issues.
+- Assist users with system access and application problems.
+- Support software updates and basic computer maintenance.
+- Investigate network connectivity issues and assist with troubleshooting.
+- Communicate with users to understand their problems and help find practical solutions.
 
 ## My Projects
 
-This is where I'll keep the things I'm working on as I learn.
+I'm using this GitHub repository to practise what I'm learning and keep track of my progress.
 
-- Python exercises and small programs.
-- Git and GitHub practice.
+- Python practice programs.
+- Git and GitHub exercises.
 - Linux commands and practical exercises.
-- Notes on IT support and troubleshooting.
+- IT support notes and troubleshooting documentation.
 
-## Getting Started
+I'll add more projects as I gain experience and become more confident in my skills.
 
-You can download this repository to your computer using Git:
-
-```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
-```
-
-The repository will grow as I add more projects. Each project will have its own instructions where necessary.
-
-## Tools I'm Using
+## Tools and Technologies
 
 - Python
 - Git & GitHub
 - Linux
-- Windows and common IT support tools
+- Windows
+- Basic networking and IT support tools
 
-## Where I'm Heading
+## My Goal
 
-I'm working toward becoming an IT Technician, building on the experience I already have and improving through practice. I want to get to a point where I can confidently troubleshoot systems, support users, understand the technology I'm working with, and write scripts to make some tasks easier.
+My goal is to become a capable **IT Technician**, someone who can troubleshoot technical problems, maintain computer systems, support users, and understand what's happening behind the systems they use.
 
-I'm not where I want to be yet, but I'm putting in the work.
+I already have some practical IT support experience, and now I'm working on strengthening my technical foundation through regular practice and hands-on projects.
 
-**This is my journey, and this is where I'm documenting it.**
+I'm still learning, and this repository is where I'll document that progress, one step at a time.
