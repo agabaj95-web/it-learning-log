@@ -1,30 +1,25 @@
 # Hi, I'm John Agaba 👋
 
-### IT Support | Aspiring IT Technician | Learning Python
+I'm from Uganda, with a background in Business Computing and Informatics. I've worked in IT support, sales, and customer service, and I'm now focused on building my technical skills and working toward an **IT Technician role**.
 
-I'm from Uganda, and I have a background in Business Computing and Informatics. My career has taken me through IT support, sales, and customer service, and each role has helped me understand how technology, people, and business work together.
+## What I'm Learning
 
-I'm now putting more focus back into IT. I'm learning Python, Git and GitHub, networking, troubleshooting, and basic automation. I already have experience supporting users, troubleshooting hardware and software issues, dealing with system and access problems, and helping people find solutions when things don't work as expected.
+I'm currently working on:
+- **Python** – learning to write programs and automate simple tasks.
+- **Git & GitHub** – learning how to track changes, manage code, and document my projects.
+- **Linux Basics** – getting familiar with the command line, files, permissions, and basic system administration.
 
-### What I'm Working Towards
+## What I Can Already Do
 
-My goal is to become an **IT Technician / IT Support Specialist**.
+From my previous IT support experience, I have worked on:
+- Troubleshooting hardware and software issues.
+- Helping users resolve system access and connectivity problems.
+- Supporting computer systems, applications, and network-related issues.
+- Assisting with software updates and routine technical support.
+- Identifying problems, investigating possible causes, and following through to resolution.
 
-I'm using this GitHub to keep track of what I'm learning and, more importantly, to actually practice it. Some of the projects here may start small, but they are part of my progress.
+## My Goal
 
-### What I'm Learning
+I'm working toward becoming a reliable IT Technician who can diagnose problems, support users, maintain computer systems, and solve technical issues confidently.
 
-- Python
-- Git & GitHub
-- Networking
-- Hardware & Software Troubleshooting
-- IT Support
-- Basic Automation
-
-### A Bit About My Journey 🇺🇬
-
-I didn't start my career knowing exactly where I wanted to end up. I've worked in different roles, learned from different people, and picked up skills along the way.
-
-Now I'm being more intentional about building my technical career. I'm learning, practicing, making mistakes, fixing them, and trying to get a little better each time.
-
-**This is my journey into IT — one project at a time.**
+I'm using this GitHub repository to document what I learn, practice my skills, and build small projects as I progress. I'm still learning, but I want my work here to show that progress through practical experience, not just words.
