@@ -1,1 +1,1 @@
-# it-learning-log
+I am a customer-focused professional with experience in sales, customer service, technology, and digital solutions, currently working to grow both professionally and personally. I am continuously learning and strengthening my skills in technology, digital marketing, customer experience, problem-solving, and business. I am driven by a desire to become more capable, disciplined, and valuable in whatever role I take on. I learn because I want to create better opportunities for myself, serve people better, and build a strong foundation for my future.
